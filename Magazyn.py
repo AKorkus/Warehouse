@@ -41,6 +41,8 @@ def kommand():
         args = kommand_list[1:]
     except:
         pass
+    if funktion == "exit":
+        exit()
     try:
         exekute(funktion, *args)
     except:

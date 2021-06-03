@@ -1,5 +1,6 @@
 Id, Name, Buy Price, Sell Price, Category
-
+1, Lego Satellite, 38.43, 54.99, Lego Cosmos
+2, Lego Space Station, 67.84, 99.99, Lego Cosmos
 3, Lego Lunar Base, 150.94, 265.99, Lego Cosmos
 4, Lego Mars Rover, 20.18, 34.99, Lego Cosmos
 5, Lego Mars Colony, 250.16, 319.99, Lego Cosmos
