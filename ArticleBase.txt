@@ -1,0 +1,16 @@
+Id, Name, Buy Price, Sell Price, Category
+
+3, Lego Lunar Base, 150.94, 265.99, Lego Cosmos
+4, Lego Mars Rover, 20.18, 34.99, Lego Cosmos
+5, Lego Mars Colony, 250.16, 319.99, Lego Cosmos
+6, Lego Alien Ship, 160.67, 235.99, Lego Cosmos
+7, Lego TIE Fighter, 30.49, 65.99, Lego Star Wars
+8, Lego AT-AT, 40.39, 75.99, Lego Star Wars
+9, Cobi Panzer II ausf.C, 20.28, 35.99, Cobi
+10, Cobi BT-5, 20.28, 35.99, Cobi
+11, Cobi Mig-9, 20.28, 35.99, Cobi
+12, Cobi Sd.Kfz. 221, 20.28, 35.99, Cobi
+13, Cobi Cruiser Mk IV, 20.28, 35.99, Cobi
+14, Lego Dragon's Cave, 50.43, 83.49, Lego Castle
+15, Lego Mage Tower, 45.60, 74.99, Lego Castle
+16, Lego Stone Fortress, 134.23, 189.99, Lego Castle
