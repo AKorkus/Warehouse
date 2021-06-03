@@ -23,7 +23,8 @@ funktions = {
     "exit": [exit_mag, "Quit program."],
     "articles": [artf.show_articles, "Shows articles database."],
     "artadd": [artf.add_article, "Adds article to data base"],
-    "artdel": [artf.delete_article, "Deletes article from database"]
+    "artdel": [artf.delete_article, "Deletes article from database"],
+    "artmod": [artf.modify_article, "Modifies article from data base"]
 }
 
 

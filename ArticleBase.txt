@@ -15,3 +15,4 @@ Id, Name, Buy Price, Sell Price, Category
 14, Lego Dragon's Cave, 50.43, 83.49, Lego Castle
 15, Lego Mage Tower, 45.60, 74.99, Lego Castle
 16, Lego Stone Fortress, 134.23, 189.99, Lego Castle
+17, Cobi Spitfire, 20.28, 35.99, Cobi
